@@ -59,8 +59,7 @@ python compare_activations.py
 
 ##  最优模型权重下载
 训练好的模型权重文件（`best_model_relu.npz`）：
-> 请替换为你自己的网盘链接（百度网盘/Google Drive均可）
-https://pan.baidu.com/s/1234567890
+https://pan.baidu.com/s/1_ljDbTja46678C-zwXb4fg?pwd=bk42 提取码: bk42
 
 
 ---
